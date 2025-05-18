@@ -17,5 +17,5 @@ that being a keyboard in the shape of a biblically accurate angel. I chose this 
 stepping stone into this project, while also being different and unique from the usual, flat micropads (though I'm unsure if this idea would count as a custom or starter project 🗿).
   
 I have some ideas on what the keyboard should look like, with the shape of the board most likely looking like the usual orb angel with the revolving rings of eyes.  
-<img width="300" alt="angel" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
-![IMG_7338](https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9)
+<img width="300" alt="angel go clack" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
+<img width="300" alt="sticky note sketch" src="https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9" />
