@@ -1,5 +1,5 @@
 # welcome to da journal :)
-(fyi dates are in mm/dd/yy cuz 🦅)
+(fyi dates are in mm/dd/yy cuz 🦅🇺🇸)
 
 ## 5/17/25
 >be me  
