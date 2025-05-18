@@ -2,7 +2,7 @@
 (fyi dates are in mm/dd/yy cuz 🦅)
 
 ## 5/17/25
-> >be me  
+>be me  
 >wake up  
 >highway announcement  
 >wtf  
@@ -12,8 +12,10 @@ First entry into the journal! Today I brainstormed a bunch of ideas on what to d
 * horse racing robots with mash-able "cheer" buttons that have a very small chance to boost the robot forward
 * irl V1 wings from ultrakill
   
-Ultimately, I decided to choose something that is somewhat within my comfort zone of circuit boards and 3d modeling, that being a keyboard in the shape of a 
-biblically accurate angel. I chose this idea due to the existing tutorial on hackpad which should be a great stepping stone into this project, while also being 
-different and unique from the usual, flat micropads (though I'm unsure if this idea would count as a custom or starter project 🗿).
+Ultimately, I decided to choose something that is somewhat within my comfort zone of circuit boards and 3d modeling (though I hope to do the other ones some other day),
+that being a keyboard in the shape of a biblically accurate angel. I chose this idea due to the existing tutorial on hackpad which should be a great 
+stepping stone into this project, while also being different and unique from the usual, flat micropads (though I'm unsure if this idea would count as a custom or starter project 🗿).
   
 I have some ideas on what the keyboard should look like, with the shape of the board most likely looking like the usual orb angel with the revolving rings of eyes.
+<img width="835" alt="angel" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
+![IMG_7338](https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9)
