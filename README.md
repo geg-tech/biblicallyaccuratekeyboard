@@ -1,2 +1,0 @@
-# biblicallyaccuratekeyboard
-work in progress!!!!!!!!!!!!!!!
