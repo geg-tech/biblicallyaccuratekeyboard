@@ -28,12 +28,9 @@ possible microcontrollers.
 * currently im thinking of using a rp2040-ZERO microcontroller due to the small size and large amounts of pins (20 switches from what i counted), possibly could also use a larger microcontroller like an esp32 from what i read (credit to Adedayo Adeleke on slack for telling me about the rp2040-zero)
 * the microcontroller could be located in the center of the angel, with the outer pcbs containing the switches being wired through the supports using copper contacts and soldered on wires
 * could also use flex pcbs or ribbon cables to manage the wiring more efficiently, though im completely new to them
-<img width="300" alt="preliminary 3d model" src="https://github.com/user-attachments/assets/0f148203-d7e6-4ea2-91c6-18fe6a05b707" />  
+<img width="400" alt="preliminary 3d model" src="https://github.com/user-attachments/assets/0f148203-d7e6-4ea2-91c6-18fe6a05b707" />  
 <img width="300" alt="possible wiring" src="https://github.com/user-attachments/assets/59eb3f14-7ae9-4e62-b8c8-4e959fd868d7" />  
-
 >sometimes its not about the ergonomics, batman...
-![wires](https://github.com/user-attachments/assets/59eb3f14-7ae9-4e62-b8c8-4e959fd868d7)
-
 
 
 
