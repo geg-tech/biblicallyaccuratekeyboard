@@ -12,9 +12,9 @@ First entry into the journal! Today I brainstormed a bunch of ideas on what to d
 * horse racing robots with mash-able "cheer" buttons that have a very small chance to boost the robot forward
 * irl V1 wings from ultrakill
   
-Ultimately, I decided to choose something that is somewhat within my comfort zone of circuit boards and 3d modeling (though I hope to do the other ones some other day),
+Ultimately, I decided to choose something that is somewhat within my comfort zone of circuit boards and 3d modeling (though I hope to do the other ones someday),
 that being a keyboard in the shape of a biblically accurate angel. I chose this idea due to the existing tutorial on hackpad which should be a great 
-stepping stone into this project, while also being different and unique from the usual, flat micropads (though I'm unsure if this idea would count as a custom or starter project 🗿).
+stepping stone into this project, while also being unique and funnier from the usual, flat micropads (though I'm unsure if this idea would count as a custom or starter project 🗿).
   
 I have some ideas on what the keyboard should look like, with the shape of the board most likely looking like the usual orb angel with the revolving rings of eyes.  
 <img width="500" alt="angel go clack" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
