@@ -40,13 +40,14 @@ I didn't get much done today since I was on call with friends for most of my tim
 Currently, I'm using a Raspberry Pi Pico WH and push buttons from my old Sprig to simulate the keyboard, but couldn't get it to work (probably due to me uploading the firmware wrong
 and/or apple not accepting it as a keyboard, xd)
 
-I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)
+I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)  
 <img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
 
 ## 5/24/25
 IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
 
 I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration. I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
+Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard.
 <img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" /> 
 
 
