@@ -33,7 +33,7 @@ possible microcontrollers.
 
 >sometimes its not about the ergonomics, batman...
 
-## 5/23/35
+## 5/23/25
 5 days later from the second entry but we ball (too busy being sleepy and playing balatro)
 
 I didn't get much done today since I was on call with friends for most of my time after school, but I managed to create a type of "testing platform" for the wiring for my keyboard.
@@ -42,6 +42,12 @@ and/or apple not accepting it as a keyboard, xd)
 
 I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)
 <img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
+
+## 5/24/25
+IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
+
+I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration. I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
+<img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" /> 
 
 
 
