@@ -46,9 +46,11 @@ I also want to remake the preliminary model of the keyboard, since it doesn't lo
 ## 5/24/25
 IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
 
-I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration. I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
-Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard.
-<img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" /> 
+I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration.  
+I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
+<img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" />  
+Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard!
+
 
 
 
