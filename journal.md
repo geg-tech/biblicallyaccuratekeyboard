@@ -33,5 +33,15 @@ possible microcontrollers.
 
 >sometimes its not about the ergonomics, batman...
 
+## 5/23/35
+5 days later from the second entry but we ball (too busy being sleepy and playing balatro)
+
+I didn't get much done today since I was on call with friends for most of my time after school, but I managed to create a type of "testing platform" for the wiring for my keyboard.
+Currently, I'm using a Raspberry Pi Pico WH and push buttons from my old Sprig to simulate the keyboard, but couldn't get it to work (probably due to me uploading the firmware wrong
+and/or apple not accepting it as a keyboard, xd)
+
+I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)
+<img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
+
 
 
