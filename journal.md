@@ -60,8 +60,8 @@ ideas and changes:
 * Ring sections could be connected via gluing, assisted with pins or notches for alignment
 * The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
 The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
-<img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />
-also gave the fella some eyes
+<img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />  
+also gave the fella some eyes :)))))
 
 
 
