@@ -51,6 +51,17 @@ I plan to change up to code the keyboard by myself for an easier time tweaking t
 <img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" />  
 Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard!
 
+## 5/29/25
+got a lil carried away with the prototype and made it into a tiny breadboard micropad 🐈‍⬛ (even made tiny little keycaps for the buttons)  
+thankfully school is out in florida so its time to LOCK IN  
+  
+ideas and changes:
+* The rings/center should be made of two shells that come together for ease of assembly/printing; the rings are to be made into halves, and then possibly made into quarters to fit on my A1 Mini 
+* Ring sections could be connected via gluing, assisted with pins or notches for alignment
+* The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
+The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
+<img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />
+also gave the fella some eyes
 
 
 
