@@ -70,7 +70,8 @@ ideas and changes:
 * The rings/center should be made of two shells that come together for ease of assembly/printing; the rings are to be made into halves, and then possibly made into quarters to fit on my A1 Mini  
 * Ring sections could be connected via gluing, assisted with pins or notches for alignment  
 * The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
-The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
+The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)<br/>
+
 <img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" /><br/>
 also gave the fella some eyes :)))))<br/>
 time spent: ~3 hours modeling and figuring out how to make a dodecahedron
