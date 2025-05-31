@@ -26,7 +26,7 @@ stepping stone into this project, while also being unique and funnier from the u
 I have some ideas on what the keyboard should look like, with the shape of the board most likely looking like the usual orb angel with the revolving rings of eyes.  
 <img width="500" alt="angel go clack" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
 <img width="300" alt="sticky note sketch" src="https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9" />  
-time spent: ~0.5 hours
+time spent: ~1 hours
 
 ## 5/18/25
 second entry ahhh
@@ -40,7 +40,7 @@ possible microcontrollers.
 <img width="300" alt="possible wiring" src="https://github.com/user-attachments/assets/59eb3f14-7ae9-4e62-b8c8-4e959fd868d7" />  
 
 >sometimes its not about the ergonomics, batman...
-time spent: ~2 hours
+time spent: ~3 hours modeling and sketching
 
 ## 5/23/25
 5 days later from the second entry but we ball (too busy being sleepy and playing balatro)
@@ -51,7 +51,7 @@ and/or apple not accepting it as a keyboard, xd)
 
 I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)  
 <img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
-time spent: ~2 hours (building prototype and bumping my head into the firmware-shaped wall)
+time spent: ~3 hours (building prototype and bumping my head into the firmware-shaped wall)
 
 ## 5/24/25
 IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
@@ -60,7 +60,7 @@ I tried finagling with raspberry pi pico code found on adafruit and the hackpad 
 I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
 <img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" />  
 Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard!  
-time spent: ~1 hour
+time spent: ~2 hour
 
 ## 5/29/25
 got a lil carried away with the prototype and made it into a tiny breadboard micropad 🐈‍⬛ (even made tiny little keycaps for the buttons)  
@@ -74,7 +74,7 @@ The model is currently using a placeholder board from KiCad, but the size of the
 
 <img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" /><br/>
 also gave the fella some eyes :)))))<br/>
-time spent: ~3 hours modeling and figuring out how to make a dodecahedron
+time spent: ~4 hours modeling and figuring out how to make a dodecahedron
 
 ## 5/30/25
 Redesigned the PCBs for the switches today, that's it really  
@@ -87,7 +87,7 @@ More specifically...
 <img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />  
 <img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />  
 <img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" /> <br/>
-time spent: ~2 hours redesigning and routing
+time spent: ~3 hours redesigning and routing
 
 
 
