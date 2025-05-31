@@ -1,7 +1,7 @@
 ---
 title: "The Biblically Accurate Keyboard"
 author: "egg_splats"
-description: "Making a biblically accurate angel clack"
+description: "Making a biblically accurate angel go click and clack"
 created_at: "2025-05-17"
 ---
 
