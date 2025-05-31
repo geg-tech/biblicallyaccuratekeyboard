@@ -71,8 +71,8 @@ ideas and changes:
 * Ring sections could be connected via gluing, assisted with pins or notches for alignment  
 * The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
 The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
-<img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />
-also gave the fella some eyes :)))))
+<img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" /><br/>
+also gave the fella some eyes :)))))<br/>
 time spent: ~3 hours modeling and figuring out how to make a dodecahedron
 
 ## 5/30/25
@@ -85,7 +85,7 @@ More specifically...
 * Added eyes to the back silkscreen because :eye:  
 <img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />  
 <img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />  
-<img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" />  
+<img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" /> <br/>
 time spent: ~2 hours redesigning and routing
 
 
