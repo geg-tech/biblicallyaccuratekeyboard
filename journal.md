@@ -75,5 +75,18 @@ The model is currently using a placeholder board from KiCad, but the size of the
 also gave the fella some eyes :)))))
 time spent: ~3 hours modeling and figuring out how to make a dodecahedron
 
+## 5/30/25
+Redesigned the PCBs for the switches today, that's it really  
+More specifically...  
+* I added another GND hole to allow the boards to be "chained" to each other through wires going through GND (should dramatically reduce the amount of wires needed for GND)  
+* Centered the switches on the board  
+* Added a M3 screw hole to the board for easy attachment to the case (I could also hot glue the pcbs to the case if one screw is inadequate but the spacing should be just right for the boards)
+* Added eyes to the back silkscreen because :eye:  
+<img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />
+<img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />
+<img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" />
+
+
+
 
 
