@@ -72,20 +72,21 @@ ideas and changes:
 * The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
 The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
 <img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />
-also gave the fella some eyes :)))))
+also gave the fella some eyes :)))))  
 time spent: ~3 hours modeling and figuring out how to make a dodecahedron
 
 ## 5/30/25
 Redesigned the PCBs for the switches today, that's it really  
 More specifically...  
-* I added another GND hole to allow the boards to be "chained" to each other through wires going through GND (should dramatically reduce the amount of wires needed for GND)  
+* I added another GND hole to allow the boards to be "chained" to each other through wires going through GND (should dramatically reduce the amount of wires needed for GND)
+* ^ i also tested this with the same raspberry pi from the prototype with a chain of breadboard power rails  
 * Centered the switches on the board  
-* Added a M3 screw hole to the board for easy attachment to the case (I could also hot glue the pcbs to the case if one screw is inadequate but the spacing should be just right for the boards)
+* Added a M3 screw hole to the board for easy attachment to the case (I could also hot glue the pcbs to the case if one screw is inadequate but the spacing should be just right for the boards)  
 * Added eyes to the back silkscreen because :eye:  
 <img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />
 <img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />
-<img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" />
-
+<img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" />  
+time spent: ~2 hours redesigning and routing
 
 
 
