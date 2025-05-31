@@ -83,8 +83,8 @@ More specifically...
 * Centered the switches on the board  
 * Added a M3 screw hole to the board for easy attachment to the case (I could also hot glue the pcbs to the case if one screw is inadequate but the spacing should be just right for the boards)  
 * Added eyes to the back silkscreen because :eye:  
-<img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />
-<img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />
+<img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />  
+<img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />  
 <img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" />  
 time spent: ~2 hours redesigning and routing
 
