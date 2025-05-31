@@ -14,10 +14,10 @@ created_at: "2025-05-17"
 >highway announcement  
 >wtf  
   
-First entry into the journal! Today I brainstormed a bunch of ideas on what to do for highway, such as:
-* combat robot that flips onto opponents with a vertical spinner (slam jam)
-* horse racing robots with mash-able "cheer" buttons that have a very small chance to boost the robot forward
-* irl V1 wings from ultrakill
+First entry into the journal! Today I brainstormed a bunch of ideas on what to do for highway, such as:  
+* combat robot that flips onto opponents with a vertical spinner (slam jam)  
+* horse racing robots with mash-able "cheer" buttons that have a very small chance to boost the robot forward  
+* irl V1 wings from ultrakill  
   
 Ultimately, I decided to choose something that is somewhat within my comfort zone of circuit boards and 3d modeling (though I hope to do the other ones someday),
 that being a keyboard in the shape of a biblically accurate angel. I chose this idea due to the existing tutorial on hackpad which should be a great 
@@ -32,9 +32,9 @@ second entry ahhh
 
 This morning I hopped on and decided to start on how i wanted the PCBs to look like. I made a preliminary model of what the keyboard should look like, as well as some research on
 possible microcontrollers.
-* currently im thinking of using a rp2040-ZERO microcontroller due to the small size and large amounts of pins (20 switches from what i counted), possibly could also use a larger microcontroller like an esp32 from what i read (credit to Adedayo Adeleke on slack for telling me about the rp2040-zero)
-* the microcontroller could be located in the center of the angel, with the outer pcbs containing the switches being wired through the supports using copper contacts and soldered on wires
-* could also use flex pcbs or ribbon cables to manage the wiring more efficiently, though im completely new to them
+* currently im thinking of using a rp2040-ZERO microcontroller due to the small size and large amounts of pins (20 switches from what i counted), possibly could also use a larger microcontroller like an esp32 from what i read (credit to Adedayo Adeleke on slack for telling me about the rp2040-zero)  
+* the microcontroller could be located in the center of the angel, with the outer pcbs containing the switches being wired through the supports using copper contacts and soldered on wires  
+* could also use flex pcbs or ribbon cables to manage the wiring more efficiently, though im completely new to them  
 <img width="450" alt="preliminary 3d model" src="https://github.com/user-attachments/assets/0f148203-d7e6-4ea2-91c6-18fe6a05b707" />  
 <img width="300" alt="possible wiring" src="https://github.com/user-attachments/assets/59eb3f14-7ae9-4e62-b8c8-4e959fd868d7" />  
 
@@ -63,8 +63,8 @@ got a lil carried away with the prototype and made it into a tiny breadboard mic
 thankfully school is out in florida so its time to LOCK IN  
   
 ideas and changes:
-* The rings/center should be made of two shells that come together for ease of assembly/printing; the rings are to be made into halves, and then possibly made into quarters to fit on my A1 Mini 
-* Ring sections could be connected via gluing, assisted with pins or notches for alignment
+* The rings/center should be made of two shells that come together for ease of assembly/printing; the rings are to be made into halves, and then possibly made into quarters to fit on my A1 Mini  
+* Ring sections could be connected via gluing, assisted with pins or notches for alignment  
 * The outer ring is an octogon and houses ~22 switches, while the inner ring is a hexagon and houses ~12 switches (may vary since i also plan on making custom keycaps for the space/enter/shift/esc keys with the same angelic theme)  
 The model is currently using a placeholder board from KiCad, but the size of the board shouldn't really change when I remake it (good)  
 <img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" />  
