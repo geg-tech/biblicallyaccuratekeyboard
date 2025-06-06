@@ -98,7 +98,8 @@ I also added small slots on the sides of the sections to aid in alignment and gl
 Once I had the sections made, I printed out two pieces to test the tolerances. The parts fit together nicely, but they left a large (and honestly pretty ugly) gap between the two sections. <br/>
 I did some research on how to fix this, and found out that I can seal up the gap and join the parts using spare filament and a soldering iron. After some time messing around, I managed to seal the gap in a way that looked good enough <br/>
 <img width="400" alt="fusion design of one of the 6 inner sections" src="https://github.com/user-attachments/assets/9b303264-8b6a-4c00-b85a-8c27bb588949" /> <br/>
-(ignore the crack i was testing how strong the bond was (strong))
+btw ignore the crack i was testing how strong the bond was (it was strong) <br/>
+time spent: ~1 hour printing, ~3 hours modeling and learning how to weld plastic
 
 
 
