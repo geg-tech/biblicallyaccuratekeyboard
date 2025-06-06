@@ -89,6 +89,17 @@ More specifically...
 <img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" /> <br/>
 time spent: ~3 hours redesigning and routing
 
+## 6/5/25
+damn its already june 😔 <br/>
+Today (after a long break of block tales with friends) I started modeling the 3d printed parts of the keyboard. <br/>
+I made the sections of the rings and found out that it would most likely be easier to print each side of the rings individually, instead of trying to meddle with supports and oddly placed holes if I printed the rings in entire sections. <br/>
+I also added small slots on the sides of the sections to aid in alignment and gluing, since it would most likely be very difficult to glue and keep together an entire polygon of 3d printed parts lmao <br/>
+<img width="600" alt="fusion design of one of the 6 inner sections" src="https://github.com/user-attachments/assets/5a5c5829-cb2e-4c0f-8b0a-acae6cbfe306" /> <br/>
+Once I had the sections made, I printed out two pieces to test the tolerances. The parts fit together nicely, but they left a large (and honestly pretty ugly) gap between the two sections. <br/>
+I did some research on how to fix this, and found out that I can seal up the gap and join the parts using spare filament and a soldering iron. After some time messing around, I managed to seal the gap in a way that looked good enough <br/>
+<img width="400" alt="fusion design of one of the 6 inner sections" src="https://github.com/user-attachments/assets/9b303264-8b6a-4c00-b85a-8c27bb588949" /> <br/>
+(ignore the crack i was testing how strong the bond was (strong))
+
 
 
 
