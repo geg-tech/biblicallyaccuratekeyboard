@@ -107,7 +107,7 @@ oh hey double sixes <br/>
   
 Today I modeled the connector pieces that would hold the rings together, as well as the corresponding sections of the rings that attach to the connectors <br/>
 Initially, I made the connector similar to those made by organic generative design programs like the one in Fusion 360. I spent a good while wrangling 3d sketches in Fusion, and after modeling and printing it, the design *literally exploded* the moment I applied shear to it lmfao
-> (generative design not as in text prompting an AI model but the ones you would see making those weird bony-shaped parts that are supposedly super tough in aerospace applications and stuff) <br/>
+<sub> (generative design not as in text prompting an AI model but the ones you would see making those weird bony-shaped parts that are supposedly super tough in aerospace applications and stuff) </sub> <br/>
 <img width="400" alt="GONE. REDUCED TO DUST. 💔" src="https://github.com/user-attachments/assets/dd454841-2f31-40ae-8405-837378ebfff6" /> <br/>
 (here's what I could recollect of it) <br/>
 I chose the bony shape of the connector initially since it looked cool due to the organic shape, as well as having holes for wires to feed through for the inner ring of switches, but quickly learned that wasn't an option. In return, I remade the connector in a much more boring fashion 😔 <br/>
