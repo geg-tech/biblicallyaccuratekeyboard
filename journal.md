@@ -110,9 +110,9 @@ Initially, I made the connector similar to those made by organic generative desi
 > (generative design not as in text prompting an AI model but the ones you would see making those weird bony-shaped parts that are supposedly super tough in aerospace applications and stuff) <br/>
 
 <img width="200" alt="GONE. REDUCED TO DUST. 💔" src="https://github.com/user-attachments/assets/dd454841-2f31-40ae-8405-837378ebfff6" /> <br/>
-I chose the bony shape of the connector initially since it looked cool due to the organic shape, as well as having holes for wires to feed through for the inner ring of switches, but quickly learned that wasn't an option. In return, I remade the connector in a much more boring fashion 😔 <br/>
+I chose the bony shape of the connector initially since it looked cool due to the organic shape, as well as having holes for wires to feed through for the inner ring of switches, but quickly learned that wasn't an option. In return, I remade the connector in a much more boring fashion (literally just a cylinder with a rectangular hole) 😔 <br/>
 <img width="322" alt="boring" src="https://github.com/user-attachments/assets/2c098253-e4e9-4d29-9222-d939c9cfa761" />
-<img width="418" alt="fancy" src="https://github.com/user-attachments/assets/32fa6125-e28b-4e3d-8941-975b8ea11947" /> <br/>
+<img width="322" alt="fancy" src="https://github.com/user-attachments/assets/32fa6125-e28b-4e3d-8941-975b8ea11947" /> <br/>
 time spent: ~1 hour designing, ~1 hour printing
 
 
