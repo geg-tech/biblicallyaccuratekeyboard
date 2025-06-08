@@ -8,7 +8,7 @@ created_at: "2025-05-17"
 # welcome to da journal :)
 (fyi dates are in mm/dd/yy cuz 🦅🇺🇸)
 
-## 5/17/25
+## 5/17/25 - The Start of Highway
 >be me  
 >wake up  
 >highway announcement  
@@ -28,7 +28,7 @@ I have some ideas on what the keyboard should look like, with the shape of the b
 <img width="300" alt="sticky note sketch" src="https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9" />  
 time spent: ~1 hours
 
-## 5/18/25
+## 5/18/25 - Preliminary Designing
 second entry ahhh
 
 This morning I hopped on and decided to start on how i wanted the PCBs to look like. I made a preliminary model of what the keyboard should look like, as well as some research on
@@ -42,7 +42,7 @@ possible microcontrollers.
 >sometimes its not about the ergonomics, batman...
 time spent: ~3 hours modeling and sketching
 
-## 5/23/25
+## 5/23/25 - Prototyping Electronics
 5 days later from the second entry but we ball (too busy being sleepy and playing balatro)
 
 I didn't get much done today since I was on call with friends for most of my time after school, but I managed to create a type of "testing platform" for the wiring for my keyboard.
@@ -53,16 +53,16 @@ I also want to remake the preliminary model of the keyboard, since it doesn't lo
 <img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
 time spent: ~3 hours (building prototype and bumping my head into the firmware-shaped wall)
 
-## 5/24/25
+## 5/24/25 - it worked :D
 IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
 
 I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration.  
 I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
 <img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" />  
 Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard!  
-time spent: ~2 hour
+time spent: ~2 hours
 
-## 5/29/25
+## 5/29/25 - Remodel #1
 got a lil carried away with the prototype and made it into a tiny breadboard micropad 🐈‍⬛ (even made tiny little keycaps for the buttons)  
 thankfully school is out in florida so its time to LOCK IN  
   
@@ -76,7 +76,7 @@ The model is currently using a placeholder board from KiCad, but the size of the
 also gave the fella some eyes :)))))<br/>
 time spent: ~4 hours modeling and figuring out how to make a dodecahedron
 
-## 5/30/25
+## 5/30/25 - PCB Designed
 Redesigned the PCBs for the switches today, that's it really  
 More specifically...  
 * I added another GND hole to allow the boards to be "chained" to each other through wires going through GND (should dramatically reduce the amount of wires needed for GND)
@@ -89,7 +89,7 @@ More specifically...
 <img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" /> <br/>
 time spent: ~3 hours redesigning and routing
 
-## 6/5/25
+## 6/5/25 - Started CAD on the case
 damn its already june 😔 <br/>
   
 Today (after a long break of block tales with friends) I started modeling the 3d printed parts of the keyboard. <br/>
@@ -102,7 +102,7 @@ I did some research on how to fix this, and found out that I can seal up the gap
 btw ignore the crack i was testing how strong the bond was (it was strong) <br/>
 time spent: ~1 hour printing, ~3 hours modeling and learning how to weld plastic
 
-## 6/6/25
+## 6/6/25 - Modeled Connectors
 oh hey double sixes <br/>
   
 Today I modeled the connector pieces that would hold the rings together, as well as the corresponding sections of the rings that attach to the connectors <br/>
