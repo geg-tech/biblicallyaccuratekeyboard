@@ -115,6 +115,15 @@ I chose the bony shape of the connector initially since it looked cool due to th
 <img width="322" alt="fancy" src="https://github.com/user-attachments/assets/32fa6125-e28b-4e3d-8941-975b8ea11947" /> <br/>
 time spent: ~1 hour designing, ~1 hour printing
 
+## 6/8/25 - BOM creation
+This morning I decided to get a headstart on making my bill of materials (totally not procrastinating on designing the core 🦨) <br/>
+<img width="207" alt="Bill of Materials" src="https://github.com/user-attachments/assets/800eac70-a0a3-4de5-8d7c-aada60908358" /> <br/>
+I considered making another custom PCB to house the microcontroller and the wires, but then realized that it would be be infinitely times cheaper to mount everything to a protoboard inside the core since it most likely won't be visible in the final product (I forgot who mentioned using a protoboard on the Slack but credit to you, I remember their message being something like using a protoboard for a radio of some kind) <br/>
+I also believe that using a protoboard will allow for greater flexibility in my design, especially if I want to add extra features like LEDs, but may also have the drawback of being annoying to design around/assemble compared to a custom PCB. <br/>
+Currently, almost all the prices are not accounting for tax + shipping, but should be a good start (expect the BOM to be nearly finished near the end of the day, its morning as of writing lol) <br/>
+time spent: ~1 hour
+
+
 
 
 
