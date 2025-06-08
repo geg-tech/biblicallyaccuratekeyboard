@@ -118,10 +118,14 @@ time spent: ~1 hour designing, ~1 hour printing
 ## 6/8/25 - Created the BOM
 This morning I decided to get a headstart on making my bill of materials (totally not procrastinating on designing the core 🦨) <br/>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/238f3873-f71b-4dc7-b2cb-614c0ca02c01" /> <br/>
-I considered making another custom PCB to house the microcontroller and the wires, but then realized that it would be be infinitely times cheaper to mount everything to a protoboard inside the core since it most likely won't be visible in the final product (I forgot who mentioned using a protoboard on the Slack but credit to you, I remember their message being something like using a protoboard for a radio of some kind) <br/>
+I considered making another custom PCB to house the microcontroller and the wires, but then realized that it would be be infinitely times cheaper to mount everything to a perfboard inside the core since it most likely won't be visible in the final product (I forgot who mentioned using a perfboard on the Slack but credit to you, I remember their message being something like using a protoboard for a radio of some kind) <br/>
   
-I also believe that using a protoboard will allow for greater flexibility in my design, especially if I want to add extra features like LEDs, but may also have the drawback of being annoying to design around/assemble compared to a custom PCB. <br/>
+I also believe that using a perfboard will allow for greater flexibility in my design, especially if I want to add extra features like LEDs, but may also have the drawback of being annoying to design around/assemble compared to a custom PCB. <br/>
 Currently, almost all the prices are not accounting for tax + shipping, but should be a good start (expect the BOM to be nearly finished near the end of the day, its morning as of writing lol) <br/>
+
+### uh oh future update from the afternoon
+Turns out adding another PCB to the PCBWay order doesn't cost nearly as much as I expected! (5 dollars more and an extra dollar to shipping if included with the switch PCBs) <br/>
+While a perfboard *would* still be cheaper by a margin of a few dollars, I had no luck finding the exact hole dimensions for the perfboard I found on Aliexpress, which would make designing the core of the keyboard MUCH harder than it needs to be (not to mention the time needed to learn to assemble a perfboard and the general build quality)
 time spent: ~1 hour
 
 
