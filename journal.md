@@ -25,7 +25,8 @@ stepping stone into this project, while also being unique and funnier from the u
   
 I have some ideas on what the keyboard should look like, with the shape of the board most likely looking like the usual orb angel with the revolving rings of eyes.  
 <img width="500" alt="angel go clack" src="https://github.com/user-attachments/assets/115d9f0f-bb39-4dbc-8a9d-8685635a11cc" />
-<img width="300" alt="sticky note sketch" src="https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9" />  
+<img width="300" alt="sticky note sketch" src="https://github.com/user-attachments/assets/46cad23b-449f-4359-9bf7-2a51c7a1b3b9" /> <br/>
+
 time spent: ~1 hours
 
 ## 5/18/25 - Preliminary Designing
@@ -39,7 +40,8 @@ possible microcontrollers.
 <img width="450" alt="preliminary 3d model" src="https://github.com/user-attachments/assets/0f148203-d7e6-4ea2-91c6-18fe6a05b707" />  
 <img width="300" alt="possible wiring" src="https://github.com/user-attachments/assets/59eb3f14-7ae9-4e62-b8c8-4e959fd868d7" />  
 
->sometimes its not about the ergonomics, batman...
+>sometimes its not about the ergonomics, batman... <br/>
+
 time spent: ~3 hours modeling and sketching
 
 ## 5/23/25 - Prototyping Electronics
@@ -50,7 +52,8 @@ Currently, I'm using a Raspberry Pi Pico WH and push buttons from my old Sprig t
 and/or apple not accepting it as a keyboard, xd)
 
 I also want to remake the preliminary model of the keyboard, since it doesn't look much like the biblically accurate angels depicted before (the rings being too large, the center being too small, etc.)  
-<img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" />  
+<img width="500" alt="quick lil prototype" src="https://github.com/user-attachments/assets/c3731413-0c31-4b87-a3b6-5969899324e4" /> <br/>
+
 time spent: ~3 hours (building prototype and bumping my head into the firmware-shaped wall)
 
 ## 5/24/25 - it worked :D
@@ -59,7 +62,8 @@ IT WORKS!!!!!!!!!!!!!! (and by it the prototype)
 I tried finagling with raspberry pi pico code found on adafruit and the hackpad website, but eventually got it working with the QMK Keyboard Configurator using the adafruit/pico-pad configuration.  
 I plan to change up to code the keyboard by myself for an easier time tweaking the keyboard, but this currently shows that my wiring idea for the core microcontroller and outer PCBs works.  
 <img width="500" alt="the prototype works (in wiring)" src="https://github.com/user-attachments/assets/c85f3855-ccf2-48d3-95b9-c5ecbdd6d3c2" />  
-Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard!  
+Next should hopefully be another remodel of the current design, followed by PCB design and the first iteration of the keyboard! <br/>
+
 time spent: ~2 hours
 
 ## 5/29/25 - Remodel #1
@@ -74,6 +78,7 @@ The model is currently using a placeholder board from KiCad, but the size of the
 
 <img width="625" alt="fresh and brand spankin new design woo" src="https://github.com/user-attachments/assets/f4f3b7cb-ad6b-4a02-8638-0452353e4167" /><br/>
 also gave the fella some eyes :)))))<br/>
+
 time spent: ~4 hours modeling and figuring out how to make a dodecahedron
 
 ## 5/30/25 - PCB Designed
@@ -87,7 +92,8 @@ More specifically...
 <img width="300" alt="board" src="https://github.com/user-attachments/assets/4dafe2d0-d5f6-4fc0-b169-f8b6a4873054" />  
 <img width="300" alt="board2" src="https://github.com/user-attachments/assets/c564524e-37f0-42d8-b2b4-92018d14c87d" />  
 <img width="300" alt="board3" src="https://github.com/user-attachments/assets/fd07ff2b-1eae-4b39-9539-5955a8f63dfc" /> <br/>
-time spent: ~3 hours redesigning and routing
+
+time spent: ~2 hours redesigning and routing
 
 ## 6/5/25 - Started CAD on the case
 damn its already june 😔 <br/>
@@ -100,6 +106,7 @@ Once I had the sections made, I printed out two pieces to test the tolerances. T
 I did some research on how to fix this, and found out that I can seal up the gap and join the parts using spare filament and a soldering iron. After some time messing around, I managed to seal the gap in a way that looked good enough <br/>
 <img width="400" alt="fusion design of one of the 6 inner sections" src="https://github.com/user-attachments/assets/9b303264-8b6a-4c00-b85a-8c27bb588949" /> <br/>
 btw ignore the crack i was testing how strong the bond was (it was strong) <br/>
+
 time spent: ~1 hour printing, ~3 hours modeling and learning how to weld plastic
 
 ## 6/6/25 - Modeled Connectors
@@ -113,6 +120,7 @@ Initially, I made the connector similar to those made by organic generative desi
 I chose the bony shape of the connector initially since it looked cool due to the organic shape, as well as having holes for wires to feed through for the inner ring of switches, but quickly learned that wasn't an option. In return, I remade the connector in a much more boring fashion (literally just a cylinder with a rectangular hole) 😔 <br/>
 <img width="322" alt="boring" src="https://github.com/user-attachments/assets/2c098253-e4e9-4d29-9222-d939c9cfa761" />
 <img width="322" alt="fancy" src="https://github.com/user-attachments/assets/32fa6125-e28b-4e3d-8941-975b8ea11947" /> <br/>
+
 time spent: ~1 hour designing, ~1 hour printing
 
 ## 6/8/25 - Created the BOM
@@ -126,6 +134,7 @@ Currently, almost all the prices are not accounting for tax + shipping, but shou
 ***uh oh future update from the afternoon***
 Turns out adding another PCB to the PCBWay order doesn't cost nearly as much as I expected! (5 dollars more and an extra dollar to shipping if included with the switch PCBs) <br/>
 While a perfboard *would* still be cheaper by a margin of a few dollars, I had no luck finding the exact hole dimensions for the perfboard I found on Aliexpress, which would make designing the core of the keyboard MUCH harder than it needs to be (not to mention the time needed to learn to assemble a perfboard and the general build quality) <br/>
+
 so yeah pcbs are back on the menu <br/> 
 i also picked up some m3 screws and a bottle of super glue on my way to the hardware store today so there's that too :3 <br/>
 
