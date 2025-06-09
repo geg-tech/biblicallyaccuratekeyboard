@@ -123,10 +123,13 @@ I considered making another custom PCB to house the microcontroller and the wire
 I also believe that using a perfboard will allow for greater flexibility in my design, especially if I want to add extra features like LEDs, but may also have the drawback of being annoying to design around/assemble compared to a custom PCB. <br/>
 Currently, almost all the prices are not accounting for tax + shipping, but should be a good start (expect the BOM to be nearly finished near the end of the day, its morning as of writing lol) <br/>
 
-### uh oh future update from the afternoon
+***uh oh future update from the afternoon***
 Turns out adding another PCB to the PCBWay order doesn't cost nearly as much as I expected! (5 dollars more and an extra dollar to shipping if included with the switch PCBs) <br/>
-While a perfboard *would* still be cheaper by a margin of a few dollars, I had no luck finding the exact hole dimensions for the perfboard I found on Aliexpress, which would make designing the core of the keyboard MUCH harder than it needs to be (not to mention the time needed to learn to assemble a perfboard and the general build quality)
-time spent: ~1 hour
+While a perfboard *would* still be cheaper by a margin of a few dollars, I had no luck finding the exact hole dimensions for the perfboard I found on Aliexpress, which would make designing the core of the keyboard MUCH harder than it needs to be (not to mention the time needed to learn to assemble a perfboard and the general build quality) <br/>
+so yeah pcbs are back on the menu <br/> 
+i also picked up some m3 screws and a bottle of super glue on my way to the hardware store today so there's that too :3 <br/>
+
+time spent: ~2 hours of researching/filling out BOM
 
 
 
