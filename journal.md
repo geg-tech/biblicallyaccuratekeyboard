@@ -6,7 +6,7 @@ created_at: "2025-05-17"
 ---
 
 # welcome to da journal :)
-(fyi dates are in mm/dd/yy cuz 🦅🇺🇸)
+(fyi dates are in mm/dd/yy cuz 🦅🇺🇸) <br/>
 technically its more like a macropad but shhhhhhhhhhh 🤫
 
 ## 5/17/25 - The Start of Highway
