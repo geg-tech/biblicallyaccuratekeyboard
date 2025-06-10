@@ -153,10 +153,10 @@ The board also looked pretty *empty* and *sad* so I threw in some inside jokes f
 i also affectionately named the macropad bobby <br/>
 
 After designing the core PCB, I got to work making the case for the center of the macropad. I remade the dodecahedron so I could separate it into halves, making sure the thickness did not extend perpendicular to the faces so the halves could be interlocked with each other. After that, I added a 0.6 in. wide hole to fit the connectors from the rings. <br/>
-<img width="403" alt="image" src="https://github.com/user-attachments/assets/c40b4865-0ef0-4a87-a685-2e67689e16c0" /> <br/>
-Once I got the PCB imported into the Fusion file, I quickly made the screw holes and supports to hold the PCB, as well as a cable hole to connect the PCB and microcontroller to the computer.
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ec1c41fc-c6c8-4525-add1-4f327ee3d87d" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/412b66d9-c0e0-43a8-97bb-03b158edf111" /> <br/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/c40b4865-0ef0-4a87-a685-2e67689e16c0" /> <br/>
+Once I got the PCB imported into the Fusion file, I quickly made the screw holes and supports to hold the PCB, as well as a cable hole to connect the PCB and microcontroller to the computer. <br/>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/ec1c41fc-c6c8-4525-add1-4f327ee3d87d" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/412b66d9-c0e0-43a8-97bb-03b158edf111" /> <br/>
 Hopefully tomorrow I can start finishing up the CAD for the center and start working on the aesthetics side of the CAD, such as designing custom keycaps, eye plates that will slot into the sides of the dodecahedron, and polishing up the CAD models. <br/>
 time spent: ~4 hours in PCB design and drawing art, ~2 hours modeling
 
