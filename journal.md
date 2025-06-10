@@ -141,6 +141,27 @@ i also picked up some m3 screws and a bottle of super glue on my way to the hard
 
 time spent: ~2 hours of researching/filling out BOM
 
+## 6/9/25 - Designed the core PCB and (parts of the) case
+teehee funny 69 date <br/>
+
+Today I designed and finished the PCB that will hold the RP2040 and wires from the switches. <br/>
+The center of the PCB holds the RP2040 microcontroller, which is connected to multiple holes that will receive input from the switches on their own PCBs. The holes also contain GND to string throughout the switch PCBs. While choosing the footprints, I realized that I had an odd number of pins heading out (split between 12 and 11 pins on each side), so I also added a hole for 3.3V in case if I ever want to add something extra like an LED as a power light or aesthetics. <br/>
+<img width="300" alt="uhh" src="https://github.com/user-attachments/assets/74958dd2-64ca-4f29-983a-4c67b27c1fc6" /> <br/>
+The board also looked pretty *empty* and *sad* so I threw in some inside jokes from my friend group, as well as my school's Hack Club logo (made by yours truly :3). On the back I also made a picture of the core of the macropad, using Fusion 360 to create the dodecahedron and Figma to create a solid outline and the custom text for the macropad.<br/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/32c51e87-1be6-4f77-b3b5-21a02acb605a" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/25c78ffc-654e-43fb-9d30-471b52df332a" /> <br/>
+i also affectionately named the macropad bobby <br/>
+
+After designing the core PCB, I got to work making the case for the center of the macropad. I remade the dodecahedron so I could separate it into halves, making sure the thickness did not extend perpendicular to the faces so the halves could be interlocked with each other. After that, I added a 0.6 in. wide hole to fit the connectors from the rings. <br/>
+<img width="403" alt="image" src="https://github.com/user-attachments/assets/c40b4865-0ef0-4a87-a685-2e67689e16c0" /> <br/>
+Once I got the PCB imported into the Fusion file, I quickly made the screw holes and supports to hold the PCB, as well as a cable hole to connect the PCB and microcontroller to the computer.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ec1c41fc-c6c8-4525-add1-4f327ee3d87d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/412b66d9-c0e0-43a8-97bb-03b158edf111" /> <br/>
+Hopefully tomorrow I can start finishing up the CAD for the center and start working on the aesthetics side of the CAD, such as designing custom keycaps, eye plates that will slot into the sides of the dodecahedron, and polishing up the CAD models. <br/>
+time spent: ~4 hours in PCB design and drawing art, ~2 hours modeling
+
+
+
 
 
 
