@@ -160,6 +160,28 @@ Once I got the PCB imported into the Fusion file, I quickly made the screw holes
 Hopefully tomorrow I can start finishing up the CAD for the center and start working on the aesthetics side of the CAD, such as designing custom keycaps, eye plates that will slot into the sides of the dodecahedron, and polishing up the CAD models. <br/>
 time spent: ~4 hours in PCB design and drawing art, ~2 hours modeling
 
+## 6/11/25 - Core CAD model finished and completed BOM
+I just finished the CAD model for the center, nothing else really <br/>
+heres a picture i guess <br/>
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/ff6b0d59-f422-4003-9d4c-1001702b9de5" /> <br/>
+
+I also spent some time going over and reviewing my bill of materials, taking out parts that I didn't need (M3 screws and super glue) and rechecking parts. For example, the PLA filament in my BOM recently went on sale for ~$2 less, which I should take advantage of. I also swapped over from PCBWay to JLCPCB, due to the recent announcement of a 20 dollar coupon for PCBs and my PCBs costing just under $20. <br/>
+<img width="1355" alt="image" src="https://github.com/user-attachments/assets/2cc4c571-31f3-435b-b5f0-47ca5c14b0e4" /> <br/>
+time spent: 30 minutes finishing CAD, 1 hour finishing bill of materials
+
+## 6/12/25 - Modeled custom keycaps
+Today I made custom keycaps for the macropad. <br/>
+I knew that the microcontroller I was going to order (and the current setup of the switches) weren't going to support all 30 switches in the prototype CAD model, which meant that I had to merge some keys to fit the amount of GPIO pins. Because of this fact, I ended up making 3 different variants of the keycaps, each using up one, two, and three spaces for switches. <br/>
+I designed the switches around the models found in hineybush's Github repo (found here https://github.com/hineybush/CherryMX), using the measurements for the keycap stems and adjusting them for my printer's own tolerances and for the general size of the keycaps (18mm x 18mm x 10mm). Other than that, the models for the keycaps are original. I also added designs on top of the keycaps, based around the eyes found on the rings of depictions of biblically accurate angels. <br/>
+Overall, I'm satisfied on how they keycaps turned out, but I may also redesign the 2-wide keycap since it the eyes are all skewed compared to the other keycaps. <br/>
+<img width="535" alt="1-wide keycap" src="https://github.com/user-attachments/assets/f676b726-3165-4915-8490-10facace62f8" />
+<img width="428" alt="2-wide keycap" src="https://github.com/user-attachments/assets/62a4b28e-9a35-413f-a388-053b03c7e943" />
+<img width="284" alt="3- wide keycap" src="https://github.com/user-attachments/assets/772c676a-ff2c-4c77-9d56-92d12cf05a02" />
+![sketches](https://github.com/user-attachments/assets/ec165efe-9f8f-43bd-bed5-c4a0e09973fc) <br/>
+Hopefully next should be designing eyes that can be attached to the sides of the center, and then final revisions for submission 🐈‍⬛ <br/>
+time spent: ~3 hours designing keycaps
+
+
 
 
 
