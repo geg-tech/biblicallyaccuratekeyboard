@@ -176,7 +176,7 @@ I designed the switches around the models found in hineybush's Github repo (foun
 Overall, I'm satisfied on how they keycaps turned out, but I may also redesign the 2-wide keycap since it the eyes are all skewed compared to the other keycaps. <br/>
 <img width="535" alt="1-wide keycap" src="https://github.com/user-attachments/assets/f676b726-3165-4915-8490-10facace62f8" />
 <img width="428" alt="2-wide keycap" src="https://github.com/user-attachments/assets/62a4b28e-9a35-413f-a388-053b03c7e943" />
-<img width="284" alt="3- wide keycap" src="https://github.com/user-attachments/assets/772c676a-ff2c-4c77-9d56-92d12cf05a02" />
+<img width="644" alt="3-wide keycap" src="https://github.com/user-attachments/assets/247904a7-57ef-4fcf-ad7e-ee249dbf8056" />
 ![sketches](https://github.com/user-attachments/assets/ec165efe-9f8f-43bd-bed5-c4a0e09973fc) <br/>
 Hopefully next should be designing eyes that can be attached to the sides of the center, and then final revisions for submission 🐈‍⬛ <br/>
 time spent: ~3 hours designing keycaps
