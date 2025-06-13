@@ -175,12 +175,14 @@ I knew that the microcontroller I was going to order (and the current setup of t
 
 I designed the switches around the models found in hineybush's Github repo (found here https://github.com/hineybush/CherryMX), using the measurements for the keycap stems and adjusting them for my printer's own tolerances and for the general size of the keycaps (18mm x 18mm x 10mm). Other than that, the models for the keycaps are original. I also added designs on top of the keycaps, based around the eyes found on the rings of depictions of biblically accurate angels. <br/>
 Overall, I'm satisfied on how they keycaps turned out, but I may also redesign the 2-wide keycap since it the eyes are all skewed compared to the other keycaps. <br/>
-<img width="200" alt="1-wide keycap" src="https://github.com/user-attachments/assets/f676b726-3165-4915-8490-10facace62f8" />
+<img width="150" alt="1-wide keycap" src="https://github.com/user-attachments/assets/f676b726-3165-4915-8490-10facace62f8" />
 <img width="200" alt="2-wide keycap" src="https://github.com/user-attachments/assets/62a4b28e-9a35-413f-a388-053b03c7e943" />
-<img width="400" alt="3-wide keycap" src="https://github.com/user-attachments/assets/247904a7-57ef-4fcf-ad7e-ee249dbf8056" />
+<img width="300" alt="3-wide keycap" src="https://github.com/user-attachments/assets/247904a7-57ef-4fcf-ad7e-ee249dbf8056" />
 <img width="500" alt="3d prints" src="https://github.com/user-attachments/assets/ec165efe-9f8f-43bd-bed5-c4a0e09973fc" /> <br/>
 Hopefully next should be designing eyes that can be attached to the sides of the center, and then final revisions for submission 🐈‍⬛ <br/>
 time spent: ~3 hours designing keycaps
+
+## 6/13/25 - 
 
 
 
