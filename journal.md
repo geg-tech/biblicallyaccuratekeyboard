@@ -180,9 +180,20 @@ Overall, I'm satisfied on how they keycaps turned out, but I may also redesign t
 <img width="300" alt="3-wide keycap" src="https://github.com/user-attachments/assets/247904a7-57ef-4fcf-ad7e-ee249dbf8056" />
 <img width="500" alt="3d prints" src="https://github.com/user-attachments/assets/ec165efe-9f8f-43bd-bed5-c4a0e09973fc" /> <br/>
 Hopefully next should be designing eyes that can be attached to the sides of the center, and then final revisions for submission 🐈‍⬛ <br/>
-time spent: ~3 hours designing keycaps
+time spent: ~2 hours designing keycaps
 
-## 6/13/25 - 
+## 6/13/25 - more decorations!!!!! (and failing)
+Today I remodeled the 2-wide keycap to have one eye, as well as attempting to create eyes that will be attached to the sides of the center. <br/>
+Although the keycap went well (perhaps my favorite keycap out of the three), I struggled to make the eye for the center. At first I went with using the *"Create Form"* tool in Fusion, making a sketch and creating a pipe with it, but soon ran into issues trying to make it "smooth" into the surface. <br/>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6cb78eb9-8a90-42c1-9e4e-3109fe3ac135" /> <br/>
+After that didn't work, I tried using the Fillet tool to make it smooth into the surface, but spent an eternity bashing my head against fillet size errors. In the end, I ended up giving up for the day since it was already pretty late into the night (and the fact that Fusion's rendering was tweaking out). <br/>
+but anyways cool keycap :D <br/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a373aea7-c70d-469c-b1f3-874778e317e3" /> <br/>
+I also realized that the inside parts of the eyes were *really* thin (about 1 pla layer), so I also ended up thickening the keycaps there. <br/>
+time spent: ~3 hours modeling
+
+## 6/14/25 - that eye that i hate (finished it)
+I finished that eye
 
 
 
