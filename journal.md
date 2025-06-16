@@ -205,7 +205,10 @@ also here's the full peeper with all the modeled cad and stuff added on (too laz
 time spent: 2 hours modeling and creating the full CAD
 
 ## 6/16/24 - OUGH ITS DONE (the cad)
-This morning I colored and added the keycaps to the model I made on the 14th
+This morning I colored and added the keycaps to the model I made on the 14th and it looks COOL AS FLIP!!!!!!!!!!!!!!!!!!!! <br/>
+![image](https://github.com/user-attachments/assets/3b4f8def-7c8f-4e9a-bbb5-2ac589289243) <br/>
+
+
 
 
 
