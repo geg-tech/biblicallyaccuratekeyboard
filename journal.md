@@ -193,7 +193,18 @@ I also realized that the inside parts of the eyes were *really* thin (about 1 pl
 time spent: ~3 hours modeling
 
 ## 6/14/25 - that eye that i hate (finished it)
-I finished that eye
+I finished that damn eye <br/>
+I ended up making the eyelids by using a regular extrude command, combined with large fillets to create that smooth shape that makes it look like it is part of the surface. After that, I used a revolve tool to create the eye, as well as the iris. All of the parts in the eye are different parts, with the eyelids and iris planned to be colored gold in contrast to the white of the center/eye. <br/>
+
+I also revamped the ring sections that feature the holes that connect to the center of the macropad, removing the screw holes (idk why i put them there) and adding a cover plate to the outer ring variant. <br/>
+<img width="528" alt="new eye rah i hated this part" src="https://github.com/user-attachments/assets/0289ab59-f4ea-49ed-a4cd-628e9badd017" />
+<img width="678" alt="ooh cool new sections" src="https://github.com/user-attachments/assets/c978a868-03c6-4940-8eba-62b5835d47a1" /> <br/>
+
+also here's the full peeper with all the modeled cad and stuff added on (too lazy to add keycaps rn so tomorrow) <br/>
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/55b573fb-a678-4697-9ea1-8f24cb35da15" /> <br/>
+time spent: 2 hours modeling and creating the full CAD
+
+
 
 
 
