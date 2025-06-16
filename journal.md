@@ -1,5 +1,5 @@
 ---
-title: "The Biblically Accurate Keyboard"
+title: "The Biblically Accurate Macropad"
 author: "egg_splats"
 description: "Making a biblically accurate angel go click and clack"
 created_at: "2025-05-17"
@@ -203,6 +203,9 @@ I also revamped the ring sections that feature the holes that connect to the cen
 also here's the full peeper with all the modeled cad and stuff added on (too lazy to add keycaps rn so tomorrow) <br/>
 <img width="561" alt="image" src="https://github.com/user-attachments/assets/55b573fb-a678-4697-9ea1-8f24cb35da15" /> <br/>
 time spent: 2 hours modeling and creating the full CAD
+
+## 6/16/24 - OUGH ITS DONE (the cad)
+This morning I colored and added the keycaps to the model I made on the 14th
 
 
 
