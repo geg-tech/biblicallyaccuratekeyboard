@@ -10,10 +10,10 @@ The angel is also called bobby :)))) <br/>
 
 ## CAD
 <img width="666" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" />
+<img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
 ## BOM
-putting l8r
+putting l8r <br/>
 
 ## PCB + Wiring Diagram
 <img width="738" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
