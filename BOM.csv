@@ -1,0 +1,14 @@
+Item,Purpose,Source,Price,Subtotal,Total (tax + shipping),Link
+SUNLU Gold PLA Filament,Filament for the case,Amazon,$19.99,,,https://www.amazon.com/SUNLU-Filament-PLA-Dimensional-Accuracy/dp/B0CJLT7Z9M?dib=eyJ2IjoiMSJ9.pGOVl5A0h0ITbGDah6NPWdLIynF3xYtzywCtmRC3eQMcbTGG5zY-eCocaWEDRI3wm9VFfad9dhfAZPpotQDTskEcX21CtfX3n21inSnvpuQnunfjWAguRBnkh2szVoI0ZGQbshZYgfLaZeD_tOw-_yGfG3giOv-IiHowrWqWa6ruMduWHxLek-g1ORdWdM-B3POwaGkNwYtuVkeVhYH_DSSZp29QyKRTqonRVNGedXQ.mE1H3pMqbPYRdkvbFpJN6nZDDlZpNot85fgcp18XeZ0&dib_tag=se&keywords=sunli+gold+filament&qid=1749684604&sr=8-3
+Switch PCBs (JLCPCB),Houses the switches in the rings,JLCPCB,$5.20,,,
+Core PCBs (JLCPCB),"Houses the RP2040, connects to switch PCBs ",JLCPCB,$2.00,,,
+Yellow 26 AWG Wire,Connects PCBs and the RP2040,Aliexpress,$3.57,,,https://www.aliexpress.us/item/3256805920016063.html?spm=a2g0o.productlist.main.1.18816tIT6tITWj&algo_pvid=31fef810-e911-479e-ab08-5da795ccec76&algo_exp_id=31fef810-e911-479e-ab08-5da795ccec76-0&pdp_ext_f=%7B%22order%22%3A%222561%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%217.14%214.78%21%21%2150.96%2134.14%21%402103241117493103749981895e9733%2112000035774121202%21sea%21US%210%21ABX&curPageLogUid=C8wcwbO0UWCB&utparam-url=scene%3Asearch%7Cquery_from%3A
+Outemu Blue Switches,Switches to detect user input/presses,Aliexpress,$0.99,,,https://www.aliexpress.us/item/3256802192387196.html?spm=a2g0o.productlist.main.2.5db13a60dv4DTq&algo_pvid=6c9e4878-fb48-4bc0-97ec-627d7693889b&algo_exp_id=6c9e4878-fb48-4bc0-97ec-627d7693889b-1&pdp_ext_f=%7B%22order%22%3A%221574%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.80%210.99%21%21%212.80%210.99%21%40210337c117493942262636967ee3c6%2112000020915533418%21sea%21US%216388337753%21ABX&curPageLogUid=4LxQkqGVmb92&utparam-url=scene%3Asearch%7Cquery_from%3A 
+RP2040 Microcontroller,"Communicates to the computer, detect switch presses",Aliexpress,$2.56,,,https://www.aliexpress.us/item/3256803184741525.html?spm=a2g0o.productlist.main.2.60986428L5r6i9&algo_pvid=e6e8b9bf-e0c0-4bf1-9487-1ce86d772a2e&algo_exp_id=e6e8b9bf-e0c0-4bf1-9487-1ce86d772a2e-1&pdp_ext_f=%7B%22order%22%3A%222231%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.64%210.99%21%21%211.64%210.99%21%402101ea7117493316095504063e8593%2112000039847978989%21sea%21US%216388337753%21ABX&curPageLogUid=Lz3WWdp5YXmT&utparam-url=scene%3Asearch%7Cquery_from%3A
+3D printer,Manufactures the keyboard case,Owned,,,,
+Soldering Iron,"Assembles the PCBs, can weld case to seal cracks",Owned,,,,
+Keycaps,Makes switches more comfortable to use,Owned (printing),,,,
+Cable,Allows connection between RP2040 and PC,Owned,,,,
+Super Glue,Secures parts of the case to each other,Owned,,,,
+M3 Screws (6mm and 10mm),Allows for PCBs to be attached to the case,Owned,,,,
+,,,,$34.31,$58.83,
