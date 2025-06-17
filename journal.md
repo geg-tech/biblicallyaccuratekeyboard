@@ -204,10 +204,16 @@ also here's the full peeper with all the modeled cad and stuff added on (too laz
 <img width="561" alt="image" src="https://github.com/user-attachments/assets/55b573fb-a678-4697-9ea1-8f24cb35da15" /> <br/>
 time spent: 2 hours modeling and creating the full CAD
 
-## 6/16/24 - OUGH ITS DONE (the cad)
+## 6/16/25 - OUGH ITS DONE (the cad)
 This morning I colored and added the keycaps to the model I made on the 14th and it looks COOL AS FLIP!!!!!!!!!!!!!!!!!!!! <br/>
 ![image](https://github.com/user-attachments/assets/3b4f8def-7c8f-4e9a-bbb5-2ac589289243) <br/>
-Since the CAD is now done, I can now focus on setting up the rest of the GitHub page for submission. I uploaded the all the CAD files, as well as the revised PCB files, and double checked the BOM.
+Since the CAD is now done, I can now focus on setting up the rest of the GitHub page for submission. I uploaded the all the CAD files, as well as the revised PCB files, and double checked the BOM. <br/>
+time spent: ~1 hour
+
+## 6/17/25 - the END!!!! (until i get approved and build it)
+Today I totaled the amount of filament needed to print the case in Bambu Studio, totalling to an amount of **466.37 grams** (i think), wow! <br/>
+<img width="1255" alt="image" src="https://github.com/user-attachments/assets/881f88f1-29d6-40db-9d6e-81af24a1591b" />
+
 
 
 
