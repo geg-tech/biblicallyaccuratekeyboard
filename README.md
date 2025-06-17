@@ -6,17 +6,20 @@ My intial goal for this project was to just simply make something cool for the s
 
 I learned lots of useful techniques in Fusion 360, such as the Surface modeling tools, Create Form, and the 3D Sketch feature, which I will use extensively in my other work like future hardware projects, school work, and for my team in VEX Robotics. I also plan to show off this project to my IRL Hack Club at my high school to encourage more students to join Hack Club :3 <br/>
 
-The macropad is powered with a RP2040 soldered into a PCB in the dodecahedron in the center, and has external rings of key switches surrounding the center, all wired to the center PCB. To fit the biblically accurate angel theming, the macropad has a motif of eyes, which is commonly seen in interpretations of biblically accurate angels online. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
+The macropad is powered with a RP2040 soldered into a PCB in the center dodecahedron, and has external rings of key switches surrounding the center, all wired to the center PCB. To fit the biblically accurate angel theming, the macropad has a common motif of eyes, which is often seen in interpretations and drawings of biblically accurate angels. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
 
 <img width="300" alt="angel" src="https://github.com/user-attachments/assets/2648a13b-9429-4980-a22e-8d41d4260295" /> <br/>
 The angel is also called bobby :)))) <br/>
 
 ## CAD
-<img width="666" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
 ## BOM
-putting l8r <br/>
+| Item  |  Purpose |
+| ------------- | ------------- |
+| testing testing 1 2 3  | bwah  |
+| hello is this thing on  | m  |
 
 ## PCB + Wiring Diagram
 <img width="738" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
