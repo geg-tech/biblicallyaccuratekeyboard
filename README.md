@@ -11,18 +11,23 @@ The angel is also called bobby :)))) <br/>
 ## CAD
 <img width="666" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
+
 ## BOM
 putting l8r <br/>
+
 ## PCB + Wiring Diagram
 <img width="738" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
+
 ### Center PCB (dont mind the raspberry pi being a neon green)
 <img width="617" alt="image" src="https://github.com/user-attachments/assets/329870d0-676f-4dce-892c-88122e587eff" /> 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/9d29fcaf-92b4-4c62-9225-2a479278c12b" />
 <img width="621" alt="image" src="https://github.com/user-attachments/assets/07908aa8-9610-4414-a34f-51c2247d29db" /> <br/>
+
 ### Switch PCBs
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/db938bbd-287b-4969-8169-cb4e5bc37124" />
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/8459273b-3e27-4104-b182-b5a7244f61bb" />
 <img width="711" alt="image" src="https://github.com/user-attachments/assets/bf4dd4e9-b2a3-428f-bba7-e98d4ee9c291" /> <br/>
+
 ### Wiring Diagram
 <img width="822" alt="image" src="https://github.com/user-attachments/assets/791c785f-159f-4cee-aa85-9e1cd2803449" />
 
