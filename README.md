@@ -18,10 +18,21 @@ The angel is also called bobby :)))) <br/>
 ## BOM
 | Item  |  Purpose | Price | Source |
 | ------------- | ------------- | ------------- | ------------- |
-| SUNLU Gold PLA Filament | Filament for the macropad case/decor | $19.99 | Amazon |
-| Switch PCBs  | Holds the switches and connects to the center | 
-| Center PCB  | Holds the RP2040 and connects to the PC|
-|  | Holds the switches and wires to the center |
+| SUNLU Gold PLA Filament | Filament for the case | $19.99 | Amazon |
+| Switch PCBs  | Houses the switches in the rings | $5.20 | JLCPCB |
+| Center PCB  | Holds the RP2040 and connects to the PC | $2.00 | JLCPCB |
+| Yellow 26 AWG Wire | Holds the switches and wires to the center | $3.57 | Aliexpress |
+| Outemu Blue Switches | Switches to detect user input/presses | $0.99 | Aliexpress |
+| RP2040 Microcontroller | Communicates to the computer, detect switch presses | $2.56 | Aliexpress |
+| 3D Printer | Manufactures the keyboard case | Owned |  |
+| Soldering Iron | Assembles the PCBs, can weld case to seal cracks | Owned |  |
+| Keycaps | Makes switches more comfortable to use | Owned (printing |  |
+| Cable | Allows connection between RP2040 and PC | Owned |  |
+| Super Glue | Secures parts of the case to each other | Owned |  |
+| M3 Screws (6mm, 10mm) | Allows for PCBs to be attached to the case | Owned |  |
+| ------------- | ------------- | ------------- | ------------- |
+|Subtotal: $34.31 |  |  |  |
+|Total (tax + shipping) : $58.83 |  |  |  |
 
 ## PCB + Wiring Diagram
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
