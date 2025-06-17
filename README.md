@@ -4,7 +4,7 @@ This is a custom, 3d-printed macropad made to resemble a biblically accurate ang
 
 My intial goal for this project was to just simply make something cool for the summer and to keep me occupied, but soon grew into a very complex CAD and art project that I had loads fun working on (and also served as great Fusion 360 practice for school). <br/>
 
-I learned lots of useful techniques in Fusion 360, such as the Surface modeling tools, Create Form, and the 3D Sketch feature, which I will use extensively in my other work like future hardware projects, school work, and for my team in VEX Robotics. I also plan to show off this project to my IRL Hack Club at my high school to encourage more students to join Hack Club :3 <br/>
+I learned lots of useful techniques in Fusion 360, such as the Surface modeling tools, Create Form, and the 3D Sketch feature, which I will use extensively in my other work like future hardware projects, school work, and for my team in VEX Robotics. I also plan to show off this project to my high school's IRL Hack Club to encourage more students to join Hack Club :3 <br/>
 
 The macropad is powered with a RP2040 soldered into a PCB in the center dodecahedron, and has external rings of key switches surrounding the center, all wired to the center PCB. To fit the biblically accurate angel theming, the macropad has a common motif of eyes, which is often seen in interpretations and drawings of biblically accurate angels. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
 
@@ -16,13 +16,15 @@ The angel is also called bobby :)))) <br/>
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
 ## BOM
-| Item  |  Purpose |
-| ------------- | ------------- |
-| testing testing 1 2 3  | bwah  |
-| hello is this thing on  | m  |
+| Item  |  Purpose | Price | Source |
+| ------------- | ------------- | ------------- | ------------- |
+| SUNLU Gold PLA Filament | Filament for the macropad case/decor | $19.99 | Amazon |
+| Switch PCBs  | Holds the switches and connects to the center | 
+| Center PCB  | Holds the RP2040 and connects to the PC|
+|  | Holds the switches and wires to the center |
 
 ## PCB + Wiring Diagram
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
 
 ### Center PCB (dont mind the raspberry pi being a neon green)
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/329870d0-676f-4dce-892c-88122e587eff" /> 
