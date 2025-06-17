@@ -15,25 +15,6 @@ The angel is also called bobby :)))) <br/>
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
-## BOM
-| Item  |  Purpose | Price | Source |
-| ------------- | ------------- | ------------- | ------------- |
-| SUNLU Gold PLA Filament | Filament for the case | $19.99 | Amazon |
-| Switch PCBs  | Houses the switches in the rings | $5.20 | JLCPCB |
-| Center PCB  | Holds the RP2040 and connects to the PC | $2.00 | JLCPCB |
-| Yellow 26 AWG Wire | Holds the switches and wires to the center | $3.57 | Aliexpress |
-| Outemu Blue Switches | Switches to detect user input/presses | $0.99 | Aliexpress |
-| RP2040 Microcontroller | Communicates to the computer, detect switch presses | $2.56 | Aliexpress |
-| 3D Printer | Manufactures the keyboard case | Owned |  |
-| Soldering Iron | Assembles the PCBs, can weld case to seal cracks | Owned |  |
-| Keycaps | Makes switches more comfortable to use | Owned (printing |  |
-| Cable | Allows connection between RP2040 and PC | Owned |  |
-| Super Glue | Secures parts of the case to each other | Owned |  |
-| M3 Screws (6mm, 10mm) | Allows for PCBs to be attached to the case | Owned |  |
-| ------------- | ------------- | ------------- | ------------- |
-|Subtotal: $34.31 |  |  |  |
-|Total (tax + shipping) : $58.83 |  |  |  |
-
 ## PCB + Wiring Diagram
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
 
@@ -48,7 +29,26 @@ The angel is also called bobby :)))) <br/>
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/bf4dd4e9-b2a3-428f-bba7-e98d4ee9c291" /> <br/>
 
 ### Wiring Diagram
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/791c785f-159f-4cee-aa85-9e1cd2803449" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/791c785f-159f-4cee-aa85-9e1cd2803449" /> <br/>
+
+## BOM
+| Item  |  Purpose | Price | Source |  |
+| ------------- | ------------- | ------------- | ------------- |  |
+| SUNLU Gold PLA Filament | Filament for the case | $19.99 | Amazon |  |
+| Switch PCBs  | Houses the switches in the rings | $5.20 | JLCPCB |  |
+| Center PCB  | Holds the RP2040 and connects to the PC | $2.00 | JLCPCB |  |
+| Yellow 26 AWG Wire | Holds the switches and wires to the center | $3.57 | Aliexpress |  |
+| Outemu Blue Switches | Switches to detect user input/presses | $0.99 | Aliexpress |  |
+| RP2040 Microcontroller | Communicates to the computer, detect switch presses | $2.56 | Aliexpress |  |
+| 3D Printer | Manufactures the keyboard case | Owned |  |  |
+| Soldering Iron | Assembles the PCBs, can weld case to seal cracks | Owned |  |  |
+| Keycaps | Makes switches more comfortable to use | Owned (printing |  |  |
+| Cable | Allows connection between RP2040 and PC | Owned |  |  |
+| Super Glue | Secures parts of the case to each other | Owned |  |  |
+| M3 Screws (6mm, 10mm) | Allows for PCBs to be attached to the case | Owned |  |  |
+|  |  |  |  |  |
+|  |  |  |  | **Subtotal: $34.31** |
+| Amazon: $28.28 | JLCPCB: $18.81 | Aliexpress: $11.74 |  | **Total (tax + shipping): $58.83**  |
 
 
 
