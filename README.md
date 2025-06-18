@@ -51,7 +51,7 @@ The macropad is powered with a RP2040 running QMK, which is soldered into a PCB 
 * The case is costs around **466.37** grams of filament, and my current spool of black PLA is running really low (<100 grams left)
 * The case will be assembled inside-out (starting from the center, threading the wires through the appropriate connectors before permanently attaching PCBs/ring sections
 * JLCPCB is used instead of PCBWay due to the $20 coupon announcement to save costs by Hack Club HQ
-* The macropad will be programmed via QMK
+* The macropad will be programmed via QMK or KMK and after the macropad is built
 
 **special thanks**
 * *Adedayo Adeleke* on Slack for giving me some microcontroller recommendations early on
