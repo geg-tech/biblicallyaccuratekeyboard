@@ -9,6 +9,8 @@ created_at: "2025-05-17"
 (fyi dates are in mm/dd/yy cuz 🦅🇺🇸) <br/>
 technically its more like a macropad but shhhhhhhhh 🤫 it doesn't have the same ring to it man
 
+## Total Hour Count: 38.5 hours!!!!
+
 ## 5/17/25 - The Start of Highway
 >be me  
 >wake up  
