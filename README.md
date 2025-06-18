@@ -59,8 +59,8 @@ The macropad is powered with a RP2040 running QMK, which is soldered into a PCB 
 * Special thanks to Hack Club and the people behind Highway for making this possible :D
 
 **Inspirations** <br/>
-* The indie game *ULTRAKILL*, specifically the angelic enemy *Virtues* and the upcoming FRAUD update
-* The Roblox game *Block Tales*, specifically the final boss of Demo 4 *The Ancients*
+* The indie game *ULTRAKILL*, specifically the angelic enemies named *Virtues* and the upcoming FRAUD update
+* The Roblox game *Block Tales*, specifically the final boss of Demo 4, *The Ancients*
 
 <img width="300" alt="angel" src="https://github.com/user-attachments/assets/2648a13b-9429-4980-a22e-8d41d4260295" /> <br/>
 The angel is also called bobby :)))) <br/>
