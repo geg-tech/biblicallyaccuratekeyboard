@@ -212,7 +212,10 @@ time spent: ~1 hour
 
 ## 6/17/25 - the END!!!! (until i get approved and build it)
 Today I totaled the amount of filament needed to print the case in Bambu Studio, totalling to an amount of **466.37 grams** (i think), wow! <br/>
-<img width="1255" alt="image" src="https://github.com/user-attachments/assets/881f88f1-29d6-40db-9d6e-81af24a1591b" />
+<img width="1255" alt="image" src="https://github.com/user-attachments/assets/881f88f1-29d6-40db-9d6e-81af24a1591b" /> <br/>
+I also worked on finishing up the GitHub, filling out the README and polishing the BOM and uploading it as a csv file. <br/>
+I considered uploading some form of firmware as well, but I feel like it would be easier to receive the parts first, then code the macropad once assembled, rather than trying to guess how the ordered RP2040 will behave. Coding the macropad once it is assembled or being assembled will also allow me to adjust the commands on the switches in real time, which may be easier than trying to figure out which switches are connected to each GPIO pin in the final result (aka, coding is a later problem). <br/>
+time spent: ~2 hours filling out README and polishing BOM
 
 
 
