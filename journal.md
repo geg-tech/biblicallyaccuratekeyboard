@@ -254,6 +254,9 @@ I also spent some time working on Figma for the magazine, making my page for thi
 I based the background around common depictions of some form of heavenly eye beaming down light, as well as *Heaven Pierce Her's* cover art for "In Absentia ΛΟΓΟΣ" (did i mention i like ultrakill) <br/>
 I also added some extra pictures, such as the custom keycaps and the assembly for one of the ring sections. <br/>
 
+**update**: i had to cancel and reorder my amazon order for gold PLA since I accidentally put in the wrong billing address 💀 <br/>
+time spent: ~2 hours making the Figma magazine page and ordering
+
 
 
 
