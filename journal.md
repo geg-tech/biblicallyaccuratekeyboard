@@ -240,7 +240,19 @@ It's a little janky having the three new GPIO holes shoved between the spaces, b
 <br/>
 time spent: ~1 hour messing around with QMK and firmware, ~0.5 hours fixing PCB and schematic
 
+## 6/19/25 - shopping time
+I GOT MY GRANT!!!!! AAHHHH!!!!!! <br/>
 
+Today my project got approved (got an extra point for design :D) and received my $150 grant. The JLCPCB coupon didn't work for some odd reason, so I instead ordered from Aliexpress first, then Amazon. <br/>
+edit: nvm the coupon works now! uber super giga thanks to @alexren on slack for helping me and a couple other people in getting their coupon fixed :D <br/>
+> (by the way can i mention just how helpful the people behind highway have been)
+> (absolutely wonderful stuff man i love this)
+I also spent some time working on Figma for the magazine, making my page for this project. <br/>
+
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/81bae5a9-ea87-408f-b838-9dcde1027e1d" /> <br/>
+
+I based the background around common depictions of some form of heavenly eye beaming down light, as well as *Heaven Pierce Her's* cover art for "In Absentia ΛΟΓΟΣ" (did i mention i like ultrakill) <br/>
+I also added some extra pictures, such as the custom keycaps and the assembly for one of the ring sections. <br/>
 
 
 
