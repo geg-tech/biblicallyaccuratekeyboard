@@ -227,7 +227,9 @@ Today I started tinkering around with the QMK firmware, seeing if I could make i
 At the start of the project and in the prototypes, I used the web-based [QMK configurator](https://config.qmk.fm/). This worked for basic wiring and prototyping, but was rather limited in what I planned to do. I used the adafruit/pico_pad keyboard, which was only limited to 21 switches in a 3x7 matrix, and I soon realized that I needed extra switches/GPIO when making the CAD. <br/>
 
 Today, I swapped over to [QMK Source](https://docs.qmk.fm/newbs) to see if it provided more power, and after a while I managed to expand the GPIO limit to 23, then to the full 26 the Raspberry Pi Pico offered (which is more than what is supported on my current center PCB... uh oh) <br/>
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9ede8809-b293-48d4-bf3d-20105ddf495a" />
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9ede8809-b293-48d4-bf3d-20105ddf495a" /> <br/>
+(the current "keyboard" is essentially a massive row of 26 keys to the code lmao) <br/>
 
 
 
