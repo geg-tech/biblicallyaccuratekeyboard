@@ -11,17 +11,17 @@ The macropad is powered with a RP2040 running QMK, which is soldered into a PCB 
 To fit the biblically accurate angel theming, the macropad has a common motif of eyes, which is often seen in interpretations and drawings of biblically accurate angels. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
 
 ## CAD
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
-<img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
+<img width="700" alt="regular view" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
+<img width="596" alt="exploded view" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
 ## PCB + Wiring Diagram
 ### Schematic
 <img width="500" alt="schematic" src="https://github.com/user-attachments/assets/1bce7456-8bae-4900-b491-a54f3b4d6997" /> <br/>
 
 ### Center PCB (dont mind the raspberry pi being a neon green)
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/329870d0-676f-4dce-892c-88122e587eff" /> 
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/9d29fcaf-92b4-4c62-9225-2a479278c12b" />
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/07908aa8-9610-4414-a34f-51c2247d29db" /> <br/>
+<img width="330" alt="center pcb view" src="https://github.com/user-attachments/assets/dc979240-14c8-4fe3-81d6-a395fa6b7957" />
+<img width="330" alt="center pcb top view" src="https://github.com/user-attachments/assets/da7e207d-7ee6-457c-9d04-e98e569e97b0" />
+<img width="330" alt="center pcb bottom view" src="https://github.com/user-attachments/assets/6f10c0a2-8706-4a8a-b5a0-e3f8e5090e99" /> <br/>
 
 ### Switch PCBs
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/db938bbd-287b-4969-8169-cb4e5bc37124" />
