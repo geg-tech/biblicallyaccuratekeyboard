@@ -233,8 +233,8 @@ Today, I swapped over to [QMK Source](https://docs.qmk.fm/newbs) to see if it pr
 
 After realizing I had access to the full 26 GPIO on the Raspberry Pi (I previously thought only 23 were usable due to previous research on forums and testing), I quickly made changes to my center PCB and schematic, adding three new holes for the GPIO pins 26-28. I also added extra labels to mark where the GPIO pins led to. <br/>
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/d8ee6bbc-bc5f-4f8e-a5c4-584d9b1f1eb2" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8f28ded1-0aa5-4c4a-aab0-27b7c0a75c2c" />
+<img width="500" alt="pcb 3d view" src="https://github.com/user-attachments/assets/d8ee6bbc-bc5f-4f8e-a5c4-584d9b1f1eb2" />
+<img width="500" alt="pcb kicad view idk what its called its that dark blue area where you drag everything and stuff yeah" src="https://github.com/user-attachments/assets/8f28ded1-0aa5-4c4a-aab0-27b7c0a75c2c" />
 <img width="600" alt="new brand spankin schematic" src="https://github.com/user-attachments/assets/1bce7456-8bae-4900-b491-a54f3b4d6997" /> <br/>
 It's a little janky having the three new GPIO holes shoved between the spaces, but having to remake the entire PCB's spacing and layout *really* did not seem fun for the night, plus the fact that moving the screw holes would also mean redesigning the CAD for the center dodecahedron... <br/>
 
