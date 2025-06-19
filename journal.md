@@ -220,7 +220,7 @@ I considered uploading some form of firmware as well, but I feel like it would b
 
 time spent: ~3 hours filling out README, polishing BOM, and tallying filament costs
 
-### 6/18/25 - after the submission...............
+## 6/18/25 - after the submission...............
 damn a highway design competition the day after i submit 🥀 (its ok tho)
 
 Today I started tinkering around with the QMK firmware, seeing if I could make it do some cool stuff while I wait for the project to be reviewed. <br/>
