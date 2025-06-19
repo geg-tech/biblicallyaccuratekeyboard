@@ -237,7 +237,7 @@ After realizing I had access to the full 26 GPIO on the Raspberry Pi (I previous
 <img width="500" alt="pcb kicad view idk what its called its that dark blue area where you drag everything and stuff yeah" src="https://github.com/user-attachments/assets/8f28ded1-0aa5-4c4a-aab0-27b7c0a75c2c" />
 <img width="600" alt="new brand spankin schematic" src="https://github.com/user-attachments/assets/1bce7456-8bae-4900-b491-a54f3b4d6997" /> <br/>
 It's a little janky having the three new GPIO holes shoved between the spaces, but having to remake the entire PCB's spacing and layout *really* did not seem fun for the night, plus the fact that moving the screw holes would also mean redesigning the CAD for the center dodecahedron... <br/>
-
+<br/>
 time spent: ~1 hour messing around with QMK and firmware, ~0.5 hours fixing PCB and schematic
 
 
