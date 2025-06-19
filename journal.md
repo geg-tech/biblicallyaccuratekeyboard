@@ -247,6 +247,7 @@ Today my project got approved (got an extra point for design :D) and received my
 edit: nvm the coupon works now! uber super giga thanks to @alexren on slack for helping me and a couple other people in getting their coupon fixed :D <br/>
 > (by the way can i mention just how helpful the people behind highway have been) <br/>
 > (absolutely wonderful stuff man i love this) <br/>
+
 I also spent some time working on Figma for the magazine, making my page for this project. <br/>
 
 <img width="487" alt="image" src="https://github.com/user-attachments/assets/81bae5a9-ea87-408f-b838-9dcde1027e1d" /> <br/>
