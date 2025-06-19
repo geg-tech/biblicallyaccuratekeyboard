@@ -60,6 +60,7 @@ To fit the biblically accurate angel theming, the macropad has a common motif of
 * *Adedayo Adeleke* on Slack for giving me some microcontroller recommendations early on
 * *Atrocious* on Slack for giving me a rundown on how to add 3D models to the PCB previewer in KiCad
 * My friends and the many people who liked my work and encouraged me to continue working on the absolute trainwreck that is Fusion
+* *alexren* on Slack for helping me and a bunch of others on getting their JLCPCB coupon working
 * Special thanks to Hack Club and the people behind Highway for making this possible :D
 
 **Inspirations** <br/>
