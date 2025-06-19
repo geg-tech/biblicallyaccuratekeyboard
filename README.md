@@ -15,7 +15,8 @@ To fit the biblically accurate angel theming, the macropad has a common motif of
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/7e9120c1-b31b-475a-9a18-8fdf20a21f9e" /> <br/>
 
 ## PCB + Wiring Diagram
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/c5d48673-8071-4a5b-8080-ea297254ae6f" /> <br/>
+### Schematic
+<img width="500" alt="schematic" src="https://github.com/user-attachments/assets/1bce7456-8bae-4900-b491-a54f3b4d6997" /> <br/>
 
 ### Center PCB (dont mind the raspberry pi being a neon green)
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/329870d0-676f-4dce-892c-88122e587eff" /> 
