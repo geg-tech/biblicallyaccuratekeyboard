@@ -9,7 +9,7 @@ created_at: "2025-05-17"
 (fyi dates are in mm/dd/yy cuz 🦅🇺🇸) <br/>
 technically its more like a macropad but shhhhhhhhh 🤫 it doesn't have the same ring to it man
 
-## Total Hour Count: 38.5 hours!!!!
+## Total Hour Count: 38.5 hours!!!! (at time of submission)
 
 ## 5/17/25 - The Start of Highway
 >be me  
@@ -219,6 +219,16 @@ I also worked on finishing up the GitHub, filling out the README and polishing t
 I considered uploading some form of firmware as well, but I feel like it would be easier to receive the parts first, then code the macropad once assembled, rather than trying to guess how the ordered RP2040 will behave. Coding the macropad once it is assembled or being assembled will also allow me to adjust the commands on the switches in real time, which may be easier than trying to figure out which switches are connected to each GPIO pin in the final result (aka, coding is a later problem). <br/>
 
 time spent: ~3 hours filling out README, polishing BOM, and tallying filament costs
+
+### 6/18/25 - after the submission...............
+damn a highway design competition the day after i submit 🥀 (its ok tho)
+
+Today I started tinkering around with the QMK firmware, seeing if I could make it do some cool stuff while I wait for the project to be reviewed. <br/>
+At the start of the project and in the prototypes, I used the web-based [QMK configurator](https://config.qmk.fm/). This worked for basic wiring and prototyping, but was rather limited in what I planned to do. I used the adafruit/pico_pad keyboard, which was only limited to 21 switches in a 3x7 matrix, and I soon realized that I needed extra switches/GPIO when making the CAD. <br/>
+
+Today, I swapped over to [QMK Source](https://docs.qmk.fm/newbs) to see if it provided more power, and after a while I managed to expand the GPIO limit to 23, then to the full 26 the Raspberry Pi Pico offered (which is more than what is supported on my current center PCB... uh oh) <br/>
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9ede8809-b293-48d4-bf3d-20105ddf495a" />
+
 
 
 
