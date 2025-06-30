@@ -1,5 +1,7 @@
 # The Biblically Accurate Macropad
 
+![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
+
 This is a custom, 3d-printed macropad made to resemble a biblically accurate angel, powered by a Raspberry Pi Pico RP2040. <br/>
 
 My intial goal for this project was to just simply make something cool for the summer and to keep me occupied, but soon grew into a very complex CAD and art project that I had loads fun working on (and also served as great Fusion 360 practice for school). <br/>
