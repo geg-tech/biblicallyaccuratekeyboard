@@ -258,7 +258,19 @@ I also added some extra pictures, such as the custom keycaps and the assembly fo
 **update**: i had to cancel and reorder my amazon order for gold PLA since I accidentally put in the wrong billing address 💀 <br/>
 time spent: ~2 hours making the Figma magazine page and ordering
 
+## 7/6/25 - we back at it
+got my pcbs from JLCPCB today
+> took like 2 weeks but we got there :peefest:
 
+I got my gold filament a while back but never got around to printing the case. Mainly because I'm lazy, but to also test the PCB fittings/tolerances with the prototype prints I made throughout the design process to see whether or not they would work. <br/>
+
+The switch PCBs attached nicely with the M3 screws, but had a little wobble when I applied pressure on one side of the PCB. The sound or feel wasn't terribly affected from this when I put on some spare Hackpad switches on them, but I could put a little stabilizer in the switch case sections to help prevent this. <br/>
+
+![image](https://github.com/user-attachments/assets/a51a1db1-9740-4790-9833-cdb9dcab11c8)
+
+I also added a small 6mm hole to the center case for the purpose of jamming in a screwdriver to hit the BOOTSEC button to iterate on the firmware.
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/d1d1e48a-1366-4404-b5ab-4f5f2840b693" />
 
 
 
