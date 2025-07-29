@@ -8,9 +8,9 @@ My intial goal for this project was to just simply make something cool for the s
 
 I learned lots of useful techniques in Fusion 360, such as the Surface modeling tools, Create Form, and the 3D Sketch feature, which I will use extensively in my other work like future hardware projects, school work, and for my team in VEX Robotics. I also plan to show off this project to my high school's IRL Hack Club to encourage more students to join Hack Club :3 <br/>
 
-The macropad is powered with a RP2040 running QMK, which is soldered into a PCB in the center dodecahedron, and has external rings of key switches surrounding the center, all wired to the center PCB. <br/>
+The keyboard is powered with a RP2040 running QMK, which is soldered into a PCB in the center dodecahedron, and has external rings of key switches surrounding the center, all wired to the center PCB. <br/>
 
-To fit the biblically accurate angel theming, the macropad has a common motif of eyes, which is often seen in interpretations and drawings of biblically accurate angels. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
+To fit the biblically accurate angel theming, the keyboard has a common motif of eyes, which is often seen in interpretations and drawings of biblically accurate angels. The case is also made out of gold PLA filament, with the center, keycaps, and some decorations painted white to fit the color scheme often associated with angels. <br/>
 
 ## CAD
 <img width="700" alt="regular view" src="https://github.com/user-attachments/assets/0de3e70f-f1d7-4ddf-9ae9-d1b76fbdbad3" />
@@ -56,7 +56,7 @@ To fit the biblically accurate angel theming, the macropad has a common motif of
 * The case is costs around **466.37** grams of filament, and my current spool of black PLA is running really low (<100 grams left)
 * The case will be assembled inside-out (starting from the center, threading the wires through the appropriate connectors before permanently attaching PCBs/ring sections
 * JLCPCB is used instead of PCBWay due to the $20 coupon announcement to save costs by Hack Club HQ
-* The macropad will be programmed via QMK or KMK and after the macropad is built
+* The keyboard will be programmed via QMK or KMK and after the keyboard is built
 
 **special thanks**
 * *Adedayo Adeleke* on Slack for giving me some microcontroller recommendations early on
