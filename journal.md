@@ -274,8 +274,8 @@ I also added a small 6mm hole to the center case for the purpose of jamming in a
 
 time spent: 1 hour
 
-## 7/24/25 - uhh (building and recap)
-i think i was supposed to journal the build process 💀 ill try to recap everything <br/>
+## POST BUILDING RECAP!!!!!!
+i think i was supposed to journal the build process 💀 ill try to recap everything with pictures on my phone as references <br/>
 
 * 7/8/25 - I got my parts from Aliexpress and started to print out the parts. I added the stabilizers to the keyswitch sections.
 * 7/9/25 - more printing
