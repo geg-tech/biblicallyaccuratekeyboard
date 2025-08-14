@@ -3,6 +3,7 @@
 
 
 This is a custom, 3d-printed keyboard made to resemble a biblically accurate angel, powered by a Raspberry Pi Pico RP2040. <br/>
+> see the keyboard working [here](https://youtu.be/EbvpPsTKe3c)!
 
 My intial goal for this project was to just simply make something cool for the summer and to keep me occupied, but soon grew into a very complex CAD and art project that I had loads fun working on (and also served as great Fusion 360 practice for school). <br/>
 
