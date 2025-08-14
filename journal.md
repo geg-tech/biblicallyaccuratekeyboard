@@ -279,7 +279,12 @@ i think i was supposed to journal the build process 💀 ill try to recap everyt
 
 * 7/8/25 - I got my parts from Aliexpress and started to print out the parts. I added the stabilizers to the keyswitch sections.
 * 7/9/25 - more printing
-* 
+
+When I got my hackpad parts, I tested the original eyecaps on the milky yellow keycaps that came with the hackpad kit. At first I ws confused why it wouldn't fit on, but soon realized that the stem diameter was too big lmao (was 6mm, needed to be 5.4mm)
+Once I got the eyecap model fixed, I went back to my printer and made and painted the rest of the keycaps. I was pretty happy with the quality of the keycaps, but they looked pretty ugly and not like the render, particularly due to the lack of the yellow/gold sclera. <br/>
+After one or two hours of printing and gluing the sclera on, I finally had the first parts of the keyboard together :yay: <br/>
+
+
 
 
 
