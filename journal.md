@@ -283,33 +283,45 @@ When I got my hackpad parts, I tested the original eyecaps on the milky yellow k
 Once I got the eyecap model fixed, I went back to my printer and made and painted the rest of the keycaps. I was pretty happy with the quality of the keycaps, but they looked pretty ugly and not like the render, particularly due to the lack of the yellow/gold sclera. <br/>
 After one or two hours of printing and gluing the sclera on, I finally had the first parts of the keyboard together :yay: (and accidentally glued my fungers together) <br/>
 I waited for some time for the Aliexpress parts to come in, and by 7/11 I had the parts on me. <br/>
+> forgot to take a picture of the box filled with the finished keycaps but you can see them later on when soldering :sadge:
+
+### THOSE CONNECTORS I HATE (7/18/2025)
+As of now, I was testing the parts to see if they fit together correctly, and I noticed that the outer ring would always snap away or disconnect if I tried to assemble it with the connectors. At first I thought it was the sections and the left over support material messing up the measurements, but turns out the connectors were like 0.05mm too tall lol <br/>
+
+I also noticed that the connectors had minimal contact with the other printed parts, which was a sign to design the connectors honestly <br/>
+
+I redesigned the connectors with a flange on the outside, kinda looking like a parabola revolved around the cylinder (idk how to describe it just look at it gng). This was made so I can put glue on the flange and have it contacting both the inside of the groove, as well as the outside surface <br/>
+
+<img width="577" height="447" alt="image" src="https://github.com/user-attachments/assets/1ac92e4a-b00f-4594-a032-38a0ae591da6" /> <br/>
+
+I went through a couple iterations of the connectors, messing up the dimensions AGAIN, but I managed to get it fitting pretty well. I didn't want to glue everything before I made the internals, so I jsut taped everything together for the meantime. <br/>
+
+![IMG_7798](https://github.com/user-attachments/assets/105174cf-b275-4192-9fa9-7c4cfab6307b)
+
+### CORE (7/22/2025)
+This was probably the simplest part tbh <br/>
+The print quality on the core was pretty good, but after my experience with my irl sculk shrieker and Hackpad, I wanted to paint over the core to make the white look cleaner and less "printed" in a sense. <br/>
+
+<img width="1297" height="1284" alt="image" src="https://github.com/user-attachments/assets/be0996f2-d77c-4c50-9696-e1b5bb900009" />
+
+After that, I glued on the eyes (as seen in the picture above). I considered using hot glue or superglue, but I ended up just straight up using an Elmers glue stick for the ease and lack of a visible gap between the eyes and the center.
 
 ### RINGS
 After that, it was time to assemble the ring sections. (on 7/23 because PROCRASTINATION AHHHHHHH) <br/>
 I soldered the light blue keyswitches from Aliexpress onto the newly shipped PCBs, snipping off small bits of wire to chain them through the GND vias. <br/>
+
 ![IMG_8099](https://github.com/user-attachments/assets/9f5468c5-b8ef-4714-8d65-cd6b8c37c217)
+
 Once I had the sections chained together, I screwed them into the printed ring sections and glued the pritned sections together. <br/>
+
 ![IMG_7766](https://github.com/user-attachments/assets/ef845188-3b45-49e1-89b2-9bcef7e7a5ea)
-
-
-### THOSE CONNECTORS I HATE
-As of now, I was testing the parts to see if they fit together correctly, and I noticed that the outer ring would always snap away or disconnect if I tried to assemble it with the connectors. At first I thought it was the sections and the left over support material messing up the measurements, but turns out the connectors were like 0.05mm too tall lol <br/>
-I also noticed that the connectors had minimal contact with the other printed parts, which was a sign to design the connectors honestly <br/>
-I redesigned the connectors with a flange on the outside, kinda looking like a parabola revolved around the cylinder (idk how to describe it just look at it gng). This was made so I can put glue on the flange and have it contacting both the inside of the groove, as well as the outside surface <br/>
-<img width="577" height="447" alt="image" src="https://github.com/user-attachments/assets/1ac92e4a-b00f-4594-a032-38a0ae591da6" /> <br/>
-I went through a couple iterations of the connectors, messing up the dimensions AGAIN, but I managed to get it fitting pretty well. I didn't want to glue everything before I made the internals, so I jsut taped everything together for the meantime. <br/>
-![IMG_7798](https://github.com/user-attachments/assets/105174cf-b275-4192-9fa9-7c4cfab6307b)
-
-### CORE
-This was probably the simplest part tbh <br/>
-The print quality on the core was pretty good, but after my experience with my irl sculk shrieker and Hackpad, I wanted to paint over the core to make the white look cleaner and less "printed" in a sense. <br/>
-<img width="1297" height="1284" alt="image" src="https://github.com/user-attachments/assets/be0996f2-d77c-4c50-9696-e1b5bb900009" />
-
 
 ### BIBLICALLY ACCURATE WIRING (7/27-28/2025)
 I *really* (and i mean it), *REALLY* did not want to do this, but it was pretty much the last step I had before it was completed so <br/>
 After soldering on the Raspberry Pi onto the core PCB, I started measuring out the lengths of wire needed to reach every section on the rings. I made up a system to group and categorize the sections and their lengths with sticky notes and tape, but I quickly lost count and ended up just cutting a bunch of excess lmao <br/>
+
 ![IMG_7802](https://github.com/user-attachments/assets/995b6ce0-9cb4-4b93-b243-2b1483790cc2)
+
 To help with management and threading the billions of wires in this, I twisted the wires together into bunches, leading to this monstrosity of yellow wires you see above. (which reminded me of dreads for some reason) <br/>
 Once I had everything in, I screwed in the core PCB and sealed it away forever inside the two halves
 
