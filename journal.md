@@ -10,6 +10,7 @@ created_at: "2025-05-17"
 technically its more like a macropad but shhhhhhhhh 🤫 it doesn't have the same ring to it man
 
 ## Total Hour Count: 38.5 hours!!!! (at time of submission)
+## TOTAL total Hour count: 51 hours!
 
 ## 5/17/25 - The Start of Highway
 >be me  
