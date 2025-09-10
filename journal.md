@@ -10,7 +10,7 @@ created_at: "2025-05-17"
 technically its more like a macropad but shhhhhhhhh 🤫 it doesn't have the same ring to it man
 
 ## Total Hour Count: 38.5 hours!!!! (at time of submission)
-## TOTAL total Hour count: 51 hours!
+## TOTAL total Hour count: 58 hours!
 
 ## 5/17/25 - The Start of Highway
 >be me  
@@ -278,12 +278,14 @@ time spent: 1 hour
 ## POST BUILDING RECAP!!!!!!
 i think i was supposed to journal the build process 💀 ill try to recap everything with pictures on my phone as references <br/>
 
+
 ### KEYCAPS
 When I got my hackpad parts, I tested the original eyecaps on the milky yellow keycaps that came with the hackpad kit. At first I ws confused why it wouldn't fit on, but soon realized that the stem diameter was too big lmao (was 6mm, needed to be 5.4mm)
 Once I got the eyecap model fixed, I went back to my printer and made and painted the rest of the keycaps. I was pretty happy with the quality of the keycaps, but they looked pretty ugly and not like the render, particularly due to the lack of the yellow/gold sclera. <br/>
-After one or two hours of printing and gluing the sclera on, I finally had the first parts of the keyboard together :yay: (and accidentally glued my fungers together) <br/>
+After one or two hours of printing and gluing the sclera on, I finally had the first parts of the keyboard together (and accidentally glued my fungers together) <br/>
 I waited for some time for the Aliexpress parts to come in, and by 7/11 I had the parts on me. <br/>
 > forgot to take a picture of the box filled with the finished keycaps but you can see them later on when soldering :sadge:
+
 
 ### THOSE CONNECTORS I HATE (7/18/2025)
 As of now, I was testing the parts to see if they fit together correctly, and I noticed that the outer ring would always snap away or disconnect if I tried to assemble it with the connectors. At first I thought it was the sections and the left over support material messing up the measurements, but turns out the connectors were like 0.05mm too tall lol <br/>
@@ -298,6 +300,7 @@ I went through a couple iterations of the connectors, messing up the dimensions 
 
 ![IMG_7798](https://github.com/user-attachments/assets/105174cf-b275-4192-9fa9-7c4cfab6307b)
 
+
 ### CORE (7/22/2025)
 This was probably the simplest part tbh <br/>
 The print quality on the core was pretty good, but after my experience with my irl sculk shrieker and Hackpad, I wanted to paint over the core to make the white look cleaner and less "printed" in a sense. <br/>
@@ -306,7 +309,8 @@ The print quality on the core was pretty good, but after my experience with my i
 
 After that, I glued on the eyes (as seen in the picture above). I considered using hot glue or superglue, but I ended up just straight up using an Elmers glue stick for the ease and lack of a visible gap between the eyes and the center.
 
-### RINGS
+
+### RINGS (7/23/2025)
 After that, it was time to assemble the ring sections. (on 7/23 because PROCRASTINATION AHHHHHHH) <br/>
 I soldered the light blue keyswitches from Aliexpress onto the newly shipped PCBs, snipping off small bits of wire to chain them through the GND vias. <br/>
 
@@ -316,6 +320,7 @@ Once I had the sections chained together, I screwed them into the printed ring s
 
 ![IMG_7766](https://github.com/user-attachments/assets/ef845188-3b45-49e1-89b2-9bcef7e7a5ea)
 
+
 ### BIBLICALLY ACCURATE WIRING (7/27-28/2025)
 I *really* (and i mean it), *REALLY* did not want to do this, but it was pretty much the last step I had before it was completed so <br/>
 After soldering on the Raspberry Pi onto the core PCB, I started measuring out the lengths of wire needed to reach every section on the rings. I made up a system to group and categorize the sections and their lengths with sticky notes and tape, but I quickly lost count and ended up just cutting a bunch of excess lmao <br/>
@@ -323,7 +328,35 @@ After soldering on the Raspberry Pi onto the core PCB, I started measuring out t
 ![IMG_7802](https://github.com/user-attachments/assets/995b6ce0-9cb4-4b93-b243-2b1483790cc2)
 
 To help with management and threading the billions of wires in this, I twisted the wires together into bunches, leading to this monstrosity of yellow wires you see above. (which reminded me of dreads for some reason) <br/>
-Once I had everything in, I screwed in the core PCB and sealed it away forever inside the two halves
+Once I had everything in, I screwed in the core PCB and sealed it away forever inside the two halves. I threaded the wires through the different connectors and sections and soldered them to the switch PCBs from earlier. <br/>
+
+![shake yo dreads](https://github.com/user-attachments/assets/42884542-6179-4938-8c19-6a264d0848d1)
+
+It was pretty weird trying to solder them, since they were awfully close the the rings (especially the outer ring because they were connected on both sides) but we ball <br/>
+
+![IMG_7816](https://github.com/user-attachments/assets/1b30252d-2066-4791-8f72-ad3884231aef)
+
+After that, the build was pretty much completed! I had to glue up some cracks to prevent it from splitting, but the polygon shape of the rings made the build *surprising* sturdy, so much so that the core halves were locked together without me ever having to glue it together. <br/>
+
+
+### REDDIT AAAHHHHHH (and magazine)
+Once I had the build completed, I could finally unplug my soldering iron and touch grass <br/>
+I took some nice pictures outside of the keyboard and made my post on Reddit for the demo form. <br/>
+
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/25a04dde-7d04-4d95-94f9-8f5f8fea6fe3" /> <br/>
+<img width="1080" height="828" alt="image" src="https://github.com/user-attachments/assets/a98bf7b8-3e71-4c65-acf5-6b6577ed1c58" /> <br/>
+
+After that, I made a magazine page for the Highway Magazine Volume 2. I used a lot of stuff from the original magazine page, replacing the text to say keyboard (finally) and changing around the details. <br/>
+
+<img width="814" height="537" alt="image" src="https://github.com/user-attachments/assets/8c0ebfb1-9d10-4c67-bb34-704822dd4458" /> <br/>
+
+(the large "ring" in the background is actually a really quick Fusion model I whipped up of an octagonal ring like the outermost ring of the keeb :3) <br/>
+
+### TOTAL HOURS: 19.5 hours! (estimation taken from the metadata from my photos, take w/ many grains of salt)
+
+
+
+
 
 
 
